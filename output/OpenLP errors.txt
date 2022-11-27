@@ -1,0 +1,4 @@
+The following songs could not be imported:
+- C:/My Stuff/IdeaProjects/Church lyrics/output/AFM Shona Hymn 132.xml (XML syntax error) -> Remove "<>" symbols at line 17
+- C:/My Stuff/IdeaProjects/Church lyrics/output/Catholic Shona Hymn 49.xml (XML syntax error) -> Use find and replace to remove "&" symbols
+- C:/My Stuff/IdeaProjects/Church lyrics/output/Methodist Shona Hymn 250.xml (XML syntax error)-> Use find and replace to remove "&" symbols
